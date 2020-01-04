@@ -4,3 +4,4 @@ ___________
   |    |   /    /
   |____|  /_____ \
                 \/
+  vision-20 ${AnsiBackground.BRIGHT_MAGENTA}
