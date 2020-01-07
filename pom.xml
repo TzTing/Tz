@@ -36,6 +36,9 @@
             </exclusions>
         </dependency>
     </dependencies>
+         
+         
+         <!-- 为配置文件新加了配置 -->
 
     <build>
         <plugins>
