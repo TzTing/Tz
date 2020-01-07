@@ -5,10 +5,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class HelloController {
-
+public class HelloController
+{
     @RequestMapping(value = "", method = RequestMethod.GET)
-    public String sayHi() {
+    public String sayHi()
+    {
         return "Hello Spring Boot";
     }
 }
